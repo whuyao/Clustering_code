@@ -1,0 +1,3 @@
+nIteration		silhouette_value
+
+0		nan
