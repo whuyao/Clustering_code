@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 		return -1;
 	}
 
-	cout << "programmed by YAOYAO & Maike. Copyright 2016." << endl;
+	cout << "programmed by Yaoyao & Maike & Kampau. Copyright 2016." << endl;
 	cout << "any problem please contact: whuyao@foxmail.com" << endl;
 
 	const char* inputfilename = argv[1];//"./data/Cluster.csv";
